@@ -1,8 +1,4 @@
 # RoyalHotel
-Hotel Management System with database using javaFX and JDBC
-JDK 19
-import sqlFile in phpmyadmin (XAMPP)
-in lib folder you will find mysql-connector-java-8.0.30.jar file
-in intellij
-choose the project in file menu choose project structure
-in project settings in Modules option in depencies field import the jar file then select it and press OK
+Hotel Management System with database using XAMPP
+the system contains all the fundamental feature of hotel management to serve
+receptionists and hotel admins in monitoring and controlling hotel facilities.
